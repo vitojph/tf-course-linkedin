@@ -104,5 +104,3 @@ with tf.Session() as session:
 
     # Training is now complete!
     print("Training is complete!")
-
-
