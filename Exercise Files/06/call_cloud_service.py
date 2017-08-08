@@ -2,8 +2,8 @@ from oauth2client.client import GoogleCredentials
 import googleapiclient.discovery
 
 # Change this values to match your project
-PROJECT_ID = "CHANGE-ME"
-MODEL_NAME = "CHANGE-ME"
+PROJECT_ID = "tensorflow-class-176106"
+MODEL_NAME = "earnings"
 CREDENTIALS_FILE = "credentials.json"
 
 # These are the values we want a prediction for
